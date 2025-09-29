@@ -1,7 +1,18 @@
 {
   "name": "journal-app",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "A full-stack personal journaling application with mood tracking and collection organization",
+  "author": "Your Name",
   "private": true,
+  "keywords": [
+    "journal",
+    "diary",
+    "mood-tracking",
+    "nextjs",
+    "react",
+    "prisma",
+    "clerk"
+  ],
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
