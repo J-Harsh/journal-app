@@ -2,7 +2,7 @@
   "name": "journal-app",
   "version": "1.0.0",
   "description": "A full-stack personal journaling application with mood tracking and collection organization",
-  "author": "Your Name",
+  "author": "harsh",
   "private": true,
   "keywords": [
     "journal",
